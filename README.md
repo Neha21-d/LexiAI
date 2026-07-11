@@ -1,4 +1,4 @@
-# ⚖️ LexiAI - AI Legal Assistant
+# ⚖️ LexiAI – Smart Legal Document Analyzer 
 
 LexiAI is an AI-powered legal assistant that helps users understand legal documents through Retrieval-Augmented Generation (RAG). Users can upload legal PDFs and ask questions in natural language to receive context-aware answers.
 
